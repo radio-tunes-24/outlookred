@@ -1,0 +1,28 @@
+/**
+ * @name Outllok Red
+ * @author radio.tunes.24#4007
+ * @version 1.0.0
+ * @description Based on Outlook Web.
+ * @source https://github.com/maenDisease/Outlook
+ * @BDEditor Outlook
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script:wght@100;300;400;500;700&display=swap');
+@import url('https://maendisease.github.io/Outlook/Outlook.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css');
+
+:root {
+  --home-image: url('https://i.imgur.com/6LpcQPF.jpg');
+  --accent-hue: 0;
+  --accent-saturation: 50%;
+  --accent-brightness: 32%;
+  --gradient-toggle: 1;
+  --gradient-hue-shift: 0.65;
+  --gradient-saturation: 50%;
+  --gradient-deg: 159deg;
+  --customFont: Nanum Pen Script;
+}
+
+/* Any custom CSS below here */
+
+
